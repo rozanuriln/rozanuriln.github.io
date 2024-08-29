@@ -1114,3 +1114,10 @@ section {
 .mt-20{
   margin-top: 20px;
 }
+
+.img-about{
+  margin-left: 80px;
+  width: 241px; 
+  height: 361px;
+  border-radius: 20px;
+}
