@@ -27,7 +27,9 @@ h1,
 h2,
 h3,
 h4,
-h5,
+h5{
+  color: white;
+}
 h6 {
   font-family: "Raleway", sans-serif;
 }
@@ -483,11 +485,12 @@ section {
 
 .resume .resume-item h5 {
   font-size: 16px;
-  background: #e4edf9;
+  background: #050d18;
   padding: 5px 15px;
   display: inline-block;
   font-weight: 600;
   margin-bottom: 10px;
+  border-radius: 20px;
 }
 
 .resume .resume-item ul {
